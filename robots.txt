@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ilanadispatch.github.io/sitemap.xml
